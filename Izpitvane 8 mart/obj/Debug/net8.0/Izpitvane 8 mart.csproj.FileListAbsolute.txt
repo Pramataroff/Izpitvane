@@ -1,0 +1,14 @@
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\bin\Debug\net8.0\Izpitvane 8 mart.exe
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\bin\Debug\net8.0\Izpitvane 8 mart.deps.json
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\bin\Debug\net8.0\Izpitvane 8 mart.runtimeconfig.json
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\bin\Debug\net8.0\Izpitvane 8 mart.dll
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\bin\Debug\net8.0\Izpitvane 8 mart.pdb
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.AssemblyInfoInputs.cache
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.AssemblyInfo.cs
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.csproj.CoreCompileInputs.cache
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.dll
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\refint\Izpitvane 8 mart.dll
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.pdb
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\Izpitvane 8 mart.genruntimeconfig.cache
+C:\Milenski\Izpitvane 8 mart\Izpitvane 8 mart\obj\Debug\net8.0\ref\Izpitvane 8 mart.dll
